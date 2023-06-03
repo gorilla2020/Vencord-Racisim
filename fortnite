@@ -1,0 +1,78 @@
+
+.memberSinceContainer-2CBD23 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-column-gap: 8px;
+    -moz-column-gap: 8px;
+    column-gap: 8px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+}
+
+.avatarHoverTarget-1zzfRL {
+text-align: center;
+} 
+.defaultColor-1GKx81 {
+    text-align: center;
+}
+.defaultColor-1EVLSt {
+    color: var(--text-normal);
+    text-align: center;
+}
+
+.title-3CjiSS {
+    text-align: center;
+}
+
+.eyebrow-1Shfyi {
+    text-align: center;
+}
+
+.nickname-3P1RuO {
+    word-break: break-word;
+    text-align: center;
+}
+
+.userTag-3A4Fw4 {
+    text-align: center;
+}
+
+.usernameSection-3FppkT,
+.container-3g15px {
+    text-align: center;
+    background-image: url(https://64.media.tumblr.com/c3b3cd6883925960057b43c187c70377/88a661889eb1d588-a4/s500x750/04ee5a55911284caf626c9eb26013621ef4195ea.gif);
+}
+
+.customStatus-19KW6v {
+    display: flex;
+    background-image: url(https://64.media.tumblr.com/c3b3cd6883925960057b43c187c70377/88a661889eb1d588-a4/s500x750/04ee5a55911284caf626c9eb26013621ef4195ea.gif);
+}
+
+.nameTag-35jqbZ,
+.customStatus-19KW6v,
+.tabBar-2hXqzU {
+    justify-content: center;
+}
+
+.modeUnread-3Cxepe .icon-2W8DHg,
+#app-mount .containerDefault-YUSmu3.selected-2TbFuo .content-1gYQeQ .icon-2W8DHg,
+#app-mount .containerDefault-YUSmu3:hover .content-1gYQeQ .icon-2W8DHg
+{
+  color: #ae00ff !important;
+}
+
+#oneko {
+    background-image: url(https://raw.githubusercontent.com/Lylythii/OnekoStyles/main/pride/nonbinary.png) !important;
+}
+
+#app-mount .containerDefault-YUSmu3.selected-2TbFuo .content-1gYQeQ {
+  background: #b00b6925;
+  border: 2px solid #b00b69;
+}
